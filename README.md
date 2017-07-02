@@ -12,4 +12,4 @@ or
 
 >./cgrace -o <outputFile> <grace_filename> -f       (Add optimizations)
 
->./<<outpurFile>>
+>.//<outpurFile/>
