@@ -6,10 +6,10 @@ How to run:
 > chmod 755 ./cgrace
 
 >./myscript.sh
->./cgrace -o <outputFile> <grace_filename>
+>./cgrace -o outputFile grace_filename
 
 or 
 
->./cgrace -o <outputFile> <grace_filename> -f       (Add optimizations)
+>./cgrace -o outputFile grace_filename -f       (Add optimizations)
 
->.//<outpurFile/>
+>./outputFile
