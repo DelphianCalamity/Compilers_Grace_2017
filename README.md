@@ -11,6 +11,6 @@ How to run:
 
 or 
 
->./cgrace -o <outputFile> <grace_filename> -f     //Add optimizations
+>./cgrace -o <outputFile> <grace_filename> -f       #Add optimizations
 
->./<outpurFile>             //Run
+>./<outpurFile>                 #Run
