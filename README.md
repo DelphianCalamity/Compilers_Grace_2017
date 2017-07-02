@@ -10,6 +10,7 @@ How to run:
 
 or 
 
->./cgrace -o outputFile grace_filename -f                     --Add optimizations
+#Add optimizations
+>./cgrace -o outputFile grace_filename -f
 
 >./outputFile
